@@ -27,7 +27,7 @@ A responsive Spotify Web Player Clone built using **HTML** and **CSS**.
 
 ## 📸 Project Preview
 
-![Spotify Clone](./screenshots/spotify-clone.png)
+/<img width="1880" height="897" alt="Screenshot 2026-08-08 141853" src="https://github.com/user-attachments/assets/e20e7c47-06e8-40ec-84e2-f14687bff441" />
 
 ---
 
@@ -50,4 +50,4 @@ Spotify Clone/
 **Gautam Kumar**
 
 - GitHub: https://github.com/GautamKumar200510
-- LinkedIn: https://www.linkedin.com/in/gautam-kumar-/<img width="1880" height="897" alt="Screenshot 2026-08-08 141853" src="https://github.com/user-attachments/assets/e20e7c47-06e8-40ec-84e2-f14687bff441" />
+- LinkedIn: https://www.linkedin.com/in/gautam-kumar
